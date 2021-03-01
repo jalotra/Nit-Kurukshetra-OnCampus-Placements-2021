@@ -52,23 +52,31 @@ class Decoder(object):
 
         # Decode the data before return
         for i in range(len(to_return)):
-            to_return[i] = base64.b64decode(to_return[i] + '=' * (4 - len(to_return[i])%4))
+            to_return[i] = base64.urlsafe_b64decode(to_return[i]).decode('utf8') 
         return to_return
-    
-    # Convert the Base64 decoded Payload to normal readble text data
-    def make_readable(self, messages):
-        dict = OrderedDict()
-        cnt = 0
-        for i in range(len(messages)):
-            messages[i].splitlines 
-        
+
 if __name__ == "__main__":
-    # possible_thread_ids = get_placement_mail_thread_ids()
-    decoder = Decoder("1772637d97b43bda")
 
-    dict = decoder.get_messages()
-    messages = decoder.get_mails(dict)
+    # decoder = Decoder("1772637d97b43bda")
+    # dict = decoder.get_messages()
+    # messages = decoder.get_mails(dict)
 
-    final_payload = decoder.decode_payload(messages)
-    pprint(len(final_payload))
-    pprint(final_payload)
+    # final_payload = decoder.decode_payload(messages)
+    # print("TOTAL MAILS IN THIS THREAD : ", len(final_payload))
+    # for i in range(len(final_payload)):
+    #     print(final_payload[i])
+
+    thread_ids = get_placement_mail_thread_ids()
+    cnt = 0
+    for id in thread_ids:
+        decoder = Decoder(id)
+        dict = decoder.get_messages()
+        messages = decoder.get_mails(dict)
+
+        final_payload = decoder.decode_payload(messages)
+        with open(f"../data/{cnt}.out", "w") as f:
+            f.write("TOTAL MAILS IN THIS THREAD : " + str(len(final_payload)) + "\n")
+            for i in range(len(final_payload)):
+                f.write(final_payload[i])
+        cnt += 1
+
