@@ -18,14 +18,14 @@ I have stitched this repo to serve some purposes : <br />
 Explanation: <br />
 `CompanyName` : `Name of the company, Example : Oneplus` <br />
 `JobProfile` : `What will you be doing, Example : Software Developer, Analyst etc` <br />
-`EligibleBranches` : `What all branches were allowed to sit for the (I)exam, Example : cs, it` <br />
+`EligibleBranches` : `What all branches were allowed to sit for the (first)exam or (first online round), Example : cs, it` <br />
 `MinCgpa` : `What is the minimum CGPA required by the company. Example 7.5` <br />
 `IIITAllowed` `1 if IIIT was Allowed, 0 if IIIT was not allowed, 0.5 if I couldn't figure it out.`<br />
 
 
 ## RESULTS
-### Note : Please read data_explore.ipynb for detailed explanation. 
-### * means that the as per data collected till March 1st, 2021. It will change in the future. 
+##### Note : Please read data_explore.ipynb for detailed explanation. 
+##### * means that the as per data collected till March 1st, 2021. It will change in the future. 
 1. Total Companies that came are : 114* . <br />
 2. Total Different Profiles that students are placed in : 79*
 3. Total Different Job Locations that students will go to in India : 49*
