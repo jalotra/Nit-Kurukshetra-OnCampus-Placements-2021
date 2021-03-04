@@ -29,7 +29,7 @@ Explanation: <br />
 1. Total Companies that came are : 114* . <br />
 2. Total Different Profiles that students are placed in : 79*
 3. Total Different Job Locations that students will go to in India : 49*
-4. Branch Wise Distribution of Companies. <br />
+4. Branch wise distribution of Companies, or in simpler terms => Out of total companies that visited campus. How many companies allowed a particular branch ?  <br />
     4a) CSE : 86 <br />
     4b) IT : 81 <br />
     4c) ECE : 82 <br />
