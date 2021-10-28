@@ -1,0 +1,115 @@
+,CompanyName,JobProfile,JobLocation,EligibleBranches,MinCgpa,Ctc,IiitAllowed
+0,ixambee,software developer,"noida, delhi-ncr","cs, it, ece, ee, mech, civil, pie",0,6,
+1,tummee.com,software development engineer,"remote, gurgaon","cs, it, ece, ee, mech, civil, pie",na,7lpa,0.0
+2,jcb india,,ballabgarh(delhi ncr),"mech,ee",6.5,7,
+3,smart energy water,software engineer,noida,"cs, it, ece, ee, mech, civil, pie",7,7.5,1.0
+4,escorts ltd,,faridabad,"pie,ee,mech",7.7777,5.0,0.0
+5,perceptive analytics,"data analyst, analyst",hyderabad,"cs, it, ece, ee, mech, civil, pie",7,6-7,
+6,oracle financial services software,associate consultant,mumbai/bangalore/pune,"cs,it,ece,ee,mech,pie",7,6.4,0.0
+7,onebanc technologies,software developers,gurgaon,"cs, it, ece, ee, mech, civil, pie",all,10,1.0
+8,cadence,it associate systems engineer,noida,"cs,it",0,10.8,0.0
+9,signalchip innovations,"dsp engineer, analog design engineer, digital design engineer, firmware design engineer, associate systems engineer",bangalore,"cs,it,ece,ee","8, 7",7-11,0.0
+10,gameskraft technologies,game developer,bangalore,"cs,it",6,32,0.0
+11,lowe's india,associate software engineer,bangalore,"cs,it,ece,ee",6,19.14,0.0
+12,cubastion consulting,associate consultant,,"cs, it, ece, ee, mech, civil, pie",6,7.19,0.0
+13,wells fargo,,"banglore, hyderabad","cs,it,ece,ee",6.5,20,0.0
+14,bigbasket,software engineer,bangalore,"cs,it",7,9,1.0
+15,cadence,,pune,"cs,it,ece",7.5 c,10,
+16,mentor graphics,member technical staff,noida,"cs,ece",8,16.29,0.0
+17,delhivery,software developer,gurgaon,"cs,it,ece",all,8 lpa+ medical insurance+gratuity,1.0
+18,verizon,software engineer),"chennai, hyderabad, bangalore",,7,"7,15,000",0.0
+19,anglo eastern ship management ltd. hong kong (merchant navy),,on company managed ships.,mech,6.666666666666667,na,
+20,signify innovations india ltd,,noida,"mech,pie",0,9.6,0.0
+21,accenture,,,"cs, it, ece, ee, mech, civil, pie",7.5,8.9 lakhs.,0.0
+22,accolite,software developer,"gurgaon, mumbai, chennai, bangalore, hyderabad","cs,it,ece,ee",6,8 lpa,0.0
+23,publicis sapient,software developer,"gurgaon, noida, bangalore","cs,it,ece",6.5,9,0.0
+24,schneider electric,,,"cs,it,ece,ee",6.5,6.5,0.0
+25,hexaviewtech,software developer,noida,"cs,it,ece,ee",0,6,1.0
+26,wapcos limited,engineer trainees,,,7,5.76,0.0
+27,capgemini,senior analyst,pan india,"cs, it, ece, ee, mech, civil, pie",6.666666666666667,6.8,0.0
+28,undostres,software development engineer,mexico city,"cs,it,ece,ee",0,23 lpa (in hand,
+29,avalara technologies,software engineer,"pune, chennai","cs,it,ece",7,20-22,1.0
+30,brigosha,rnd engineer,,"cs,it,ece,ee",0,7,1.0
+31,varroc engineering ltd.,graduate engineer trainee,,"ece,ee,mech,pie,civil",7.7,5-6.5,
+32,nokia,"development, testing",pan india,"cs,it,ece",7,7,0.0
+33,ihs markit,,"delhi-ncr, gurgaon, noida","cs,it",7,6+,1.0
+34,evosys,oracle functional consulting,ahmedabad,"civil,ee",6.111111111111111,5.5,1.0
+35,claritrics india private limited,,chennai,"cs,it,ece,ee",all,9lpa,1.0
+36,hpcl,officer-engineering,pan-india,mech,6.666666666666667,15.18,
+37,vedanta limited,graduate engineer trainee,pan india,"mech,pie",6.666666666666667,5.5-7.95,
+38,namekart,business analyst,noida,"cs, it, ece, ee, mech, civil, pie",7.22,8,0.0
+39,incedo,software engineer trainee,"gurugram, pune, chennai","cs,it,ece,ee",nb,6.5,1.0
+40,larsen and toubro technology services,,,,6.666666666666667,,
+41,pindexx,mobile application developer,"hyderabad, bangalore","cs, it, ece, ee, mech, civil, pie",0,5.5-9,1.0
+42,varun beverages,get,pan india,"ee,ece,mech,pie",7,5.28 lpa,0.0
+43,tejas networks,"software-engineer-r&d, hardware-engineer-r&d","gurgaon, bangalore","ece,cs,ece",8,10.08,0.0
+44,tcs (tata consultancy service),software developer,pan india,"cs,it,ece,ee,mech",8,9,0.0
+45,amdocs,software engineering associate,"gurugram, pune","cs,it,ece",6.4,6.9 lpa,0.0
+46,natwest group,software developer,"chennai, gurgaon, bangalore","cs,it,ece,ee",7.222222222222222,9,0.0
+47,zs associates,"business operations associate (boa), decision analytics associate (daa), business technology analyst (bta)","pune, gurgaon","cs,it,ece,ee,mech,pie,civil",6.5,8.93,
+48,whitehat jr,sales manager,mumbai,,,3-7,1.0
+49,urban company,,"gurgaon, haryana","cs,it,ece,ee",7,22,1.0
+50,octro inc (sgm software pvt ltd),game developer,chandigarh,"cs,it,ece,ee",7,6-9,1.0
+51,xenonstack,software engineer and cloud engineer,mohali,"cs,it",0,4.5 lpa,
+52,larsen and toubro limit,get,,,,6,0.0
+53,amazon,software development engineer,"bangalore, hyderabad, chennai, delhi, mumbai, pune","cs,it,ece,ee",6,17+,1.0
+54,maruti suzuki,,,"mech,cs,it",7.222222222222222,,
+55,paxcom-india,software engineer,mohali/delhi/gurgaon,"cs,it,ece",6.666666666666667,5-7,0.0
+56,paytm,sde,"noida, gurgaon, bangalore","cs,it,ece,ee",7,9,0.0
+57,fiftyfive technologies,sde,,"cs,it",6.5,5-6,0.0
+58,infoedge,software engineer,noida,"cs,it,ece",7,12.5,0.0
+59,cgi,software engineer,"hyderabad, bengaluru, chennai, mumbai, pune","cs, it, ece, ee, mech, civil, pie",7.222222222222222,6.8,0.0
+60,airtel x labs & airtel paymentbank,engineering lead,gurugram,"cs,it",0,12+,0.0
+61,raam group,management trainee(pfa),pan india,,all,9.8lpa,0.0
+62,carwale,software development engineer,"vashi, navi mumbai","cs,it,ece,ee,mech",6.666666666666667,7.5,
+63,samsung sds,software developer,gurgaon,"cs,it,ece,ee","6, 8",8-10,
+64,cognizant,"software-developer-(pathfinder), software developer (base+)","bangalore, chennai, kolkata, pune, hyderabad, gurgaon","cs,it,ece,ee,mech",6.666666666666667,"10.3, 6.75",
+65,reliance jio platforms,"software development engineering, hardware engineering, data scientists, machine learning engineering",mumbai and bangalore,"cs,it,ece",6.5 cgpa,5.75-7.2,0.0
+66,pranav vikas (part of vikas group),get,faridabad,"ece,ee,mech",6.666666666666667,4.2 lpa - b.tech,0.0
+67,interra systems india pvt. ltd.,software engineer,noida,"cs,it,ece",7,8 lpa,1.0
+68,splashlearn,full stack developer,gurgaon,"cs,it,ece",7,13,0.0
+69,q3 technologies,"jr. software engineer, jr. data engineer, jr. data scientist",gurgaon,"cs, it, ece, ee, mech, civil, pie",6,8.00-8.50,1.0
+70,flipkart internet pvt ltd,sde-1,bangalore,"cs,it",6,26.57,
+71,evalueserve,research associate(intellectual property),gurugram,"pie,mech,ece",0,5 lpa,0.0
+72,fiapl,"supply-chain, production, management",pune,"mech,pie",6.5,5.1-6.5,0.0
+73,godrej & boyce,,,"civil,mech,pie,ee,ece",6.111111111111111,,
+74,wipro limited,project engineer.,pan india.,"cs, it, ece, ee, mech, civil, pie",6,6.5,
+75,jivox india,software engineer,bangalore,"cs,it,ece,ee",7.5,15,1.0
+76,helium consulting private limited,,pune,cs,7.5,5-7,0.0
+77,cdac,knowledge associates,,,6.0,7.8,0.0
+78,naflon pharmaceutical,data scientist,bengaluru,"cs, it, ece, ee, mech, civil, pie",6.666666666666667,5.25-7.25,0.0
+79,mahindra comviva,engineer trainee,"bangalore, gurgaon","cs,it,ece,ee",6.7,6.5 lpa,0.0
+80,analog devices,hardware engineer,bangalore,ece,8,20.5-24.5,0.0
+81,dmi finance,software engineer,,"cs, it, ece, ee, mech, civil, pie",7.7,5.5-6.875,0.0
+82,exl services,business analyst,gurgaon,"cs, it, ece, ee, mech, civil, pie",6.5,5-7.75,0.0
+83,phrogapp labs pvt ltd,digital marketer,"pune, remote","cs, it, ece, ee, mech, civil, pie",0,4.5-5.5,0.0
+84,lava international,"software development, schematic design & pcb layout design & development, circuit simulation.",noida,"cs,ece",7.8,6.5 lpa,0.0
+85,planetspark,business development counsellor,gurgaon,"cs, it, ece, ee, mech, civil, pie",0,6.5-7.1,1.0
+86,publicis sapient,,,"cs, it, ece, ee, mech, civil, pie",pwd,10,0.0
+87,bajaj auto ltd,graduate trainee engineer (gte),,"pie,mech,ee",7,9.08,0.0
+88,apisero inc,software developer,,"cs,it,ece,ee,mech",6.5,5.1-8.1,
+89,quovantis technologies pvt. ltd,software engineer,noida,"cs,it",0,5,1.0
+90,oracle india pvt. ltd,member technical staff,bangalore/hyderabad/noida/pune,"cs,it,ece,ee",7,11,
+91,cvent india pvt ltd,software engineer,gurgaon,"cs,it",6.5,9,1.0
+92,wns global services,trainee analyst,"noida, bangalore","cs, it, ece, ee, mech, civil, pie",0,6.72,1.0
+93,deloitte consulting india pvt ltd,analyst – deloitte consulting,hyderabad/mumbai/gurgaon/benagaluru,"cs,it,ece,ee",6.5,7.6 lpa,0.0
+94,nykaa,software engineer,gurugram,"cs,it",7,13,1.0
+95,siemens,software developer,pan india,"cs,it,ece,ee",7.77,5-5.5,0.0
+96,learning routes pvt ltd.,sales associate,"gurgaon, mohali, jaipur, delhi, goregaon","cs, it, ece, ee, mech, civil, pie",backlogs,5.19 lpa,0.0
+97,truminds,software engineer,"gurugram, bengaluru","cs,it,ece,ee",7,5-6 lpa,0.0
+98,decision point pvt ltd,"software developer, data analyst",,,all,4-6 lpa,1.0
+99,codenation innovation labs,software development engineer,bangalore,"cs, it, ece, ee, mech, civil, pie",6,31,1.0
+100,larsen and toubro infotech,software developer,,"cs, it, ece, ee, mech, civil, pie",6.666666666666667,6.5 to 8,0.0
+101,udaan,software engineer,bangalore,"cs, it, ece, ee, mech, civil, pie",0,35,0.0
+102,thcm,get,kharagpur,"mech,pie,ee",6.666666666666667,6.1-6.25,
+103,brillio technologies,engineer,"bangalore, hyderabad, pune, chennai","cs,it,ece",7.222222222222222,10,0.0
+104,samsung r&d delhi,software engineer,noida sector-126,"cs,it,ece,ee",6.5,14lpa,1.0
+105,ihs markit,,"delhi-ncr, gurgaon","cs,it",,12,0.0
+106,expertlancing research services llp,patent research associate trainee.,gurgaon,ece,,4.2-4.5,
+107,ion trading,rotational product developer,noida,"cs,it,ece",6.666666666666667,12.5,
+108,jio platforms ltd.,deputy manager,navi mumbai,"cs,ece",7,5.75,
+109,hindustan unilever ltd,supply chain trainee.,any factory in india,"mech,pie,ee",7,13,0.0
+110,oneplus,software engineer,hyderabad,"cs,it,ece",0,15,0.0
+111,pharmeasy,,"bangalore, mumbai","cs,it,ece",7,11 lpa,0.0
+112,manglam electrical,get,,"ece,ee",0,3.8-4.8,
+113,isie india,"techno-management, technical-event-management, ev-engineer, business-development-executive",noida,"mech,ee,ece,pie,civil",6.5,3.0-4.2,0.0
